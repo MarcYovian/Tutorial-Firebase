@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063454844450",
+    "project_id": "fir-flutter-c2796",
+    "storage_bucket": "fir-flutter-c2796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063454844450:android:dde99ce0f32de8ed228c7b",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_pertemuan_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDN61mk7syiERlDtTyh56E3NlOUIgAUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
